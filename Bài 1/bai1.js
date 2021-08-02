@@ -8,6 +8,7 @@ function PhuongTrinhBacNhat(a, b) {
             alert("Phương trình vô số nghiệm ");
         } else {
             result = -b / a;
+            alert(result)
         }
     }
 }
